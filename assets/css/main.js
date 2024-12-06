@@ -13,8 +13,8 @@ let updateTimer;
 
 let track_list = {
     "#player1": "assets/music/unnv.mp3",
-    "#player2": "assets/music/xssnlfl.mp3",
-    "#player3": "assets/music/alo.mp3",
+    "#player2": "assets/music/alo.mp3",
+    "#player3": "assets/music/xssnlfl.mp3",
 };
 
 let curr_track = document.createElement('audio');
