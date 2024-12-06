@@ -47,3 +47,10 @@ body {
 .seek_slider {
   width: 60%;
 }
+
+.bgrad {
+  background: linear-gradient(to left, #ec407a, #f48fb1);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
